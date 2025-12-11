@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3994,
-    "timeDay": 3994,
-    "timeWeek": 3994,
-    "timeMonth": 3994,
-    "timeYear": 3994,
+    "time": 3487,
+    "timeDay": 3487,
+    "timeWeek": 3487,
+    "timeMonth": 3487,
+    "timeYear": 3487,
     "dailyMinutesDown": {}
   },
   {
@@ -33,6 +33,24 @@
     "timeWeek": 235,
     "timeMonth": 235,
     "timeYear": 235,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Internet Location Frankfurt",
+    "url": "$DYNDNS_FRA",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "internet-location-frankfurt",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 64,
+    "timeDay": 64,
+    "timeWeek": 64,
+    "timeMonth": 64,
+    "timeYear": 64,
     "dailyMinutesDown": {}
   }
 ]
