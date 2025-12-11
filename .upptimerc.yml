@@ -13,6 +13,8 @@ sites:
     url: $DYNDNS_FRA
     type: globalping
     location: germany
+    assignees:
+      - strfl89
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
