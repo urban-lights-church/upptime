@@ -4,9 +4,9 @@
     "url": "https://urbanlights.church",
     "icon": "https://icons.duckduckgo.com/ip3/urbanlights.church.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 3294,
     "timeMonth": 4178,
     "timeYear": 4178,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-21": 0
+    }
   },
   {
     "name": "Church Center",
