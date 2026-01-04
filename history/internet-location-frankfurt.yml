@@ -1,7 +1,7 @@
 url: $DYNDNS_FRA
-status: up
-code: 200
-responseTime: 70
-lastUpdated: 2026-01-03T23:16:41.386Z
+status: down
+code: 403
+responseTime: 0
+lastUpdated: 2026-01-04T22:35:31.239Z
 startTime: 2025-12-11T13:04:15.020Z
 generator: Upptime <https://github.com/upptime/upptime>
