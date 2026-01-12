@@ -4,7 +4,7 @@
     "url": "https://urbanlights.church",
     "icon": "https://icons.duckduckgo.com/ip3/urbanlights.church.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 3934,
     "timeYear": 4131,
     "dailyMinutesDown": {
+      "2026-01-12": 0,
       "2025-12-27": 16,
       "2025-12-25": 22,
       "2025-12-21": 20
