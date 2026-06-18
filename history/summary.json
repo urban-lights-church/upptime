@@ -4,12 +4,12 @@
     "url": "https://urbanlights.church",
     "icon": "https://icons.duckduckgo.com/ip3/urbanlights.church.ico",
     "slug": "website",
-    "status": "up",
-    "uptime": "98.68%",
-    "uptimeDay": "92.57%",
-    "uptimeWeek": "94.06%",
+    "status": "down",
+    "uptime": "98.69%",
+    "uptimeDay": "92.52%",
+    "uptimeWeek": "94.05%",
     "uptimeMonth": "96.28%",
-    "uptimeYear": "98.68%",
+    "uptimeYear": "98.69%",
     "time": 3983,
     "timeDay": 5014,
     "timeWeek": 3848,
@@ -59,7 +59,7 @@
       "2026-06-09": 249,
       "2026-06-15": 320,
       "2026-06-16": 172,
-      "2026-06-18": 107
+      "2026-06-18": 108
     }
   },
   {
